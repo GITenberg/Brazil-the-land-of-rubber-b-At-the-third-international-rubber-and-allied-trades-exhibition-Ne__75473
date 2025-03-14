@@ -1,0 +1,48 @@
+_repo: Brazil-the-land-of-rubber-b-At-the-third-international-rubber-and-allied-trades-exhibition-Ne__75473
+_version: 0.0.1
+contributor:
+  other_contributor:
+    agent_name: International rubber and allied trades exhibition. 3d, New York, 1912
+    alias: International rubber and allied trades' exhibition, 3d, New York, 1912
+    gutenberg_agent_id: '58016'
+    url: http://www.gutenberg.org/2009/agents/58016
+creator:
+  authors:
+  - agent_name: Brazil. Commissão, Exposição internacioncal de borracha de New York,
+      1912
+    alias: Brazil. Commissao, Exposicao internacioncal de borracha de New York, 1912
+    gutenberg_agent_id: '58015'
+    url: http://www.gutenberg.org/2009/agents/58015
+  - agent_name: Associação Comercial do Amazonas
+    aliases:
+    - Associação Commercial do Amazonas
+    - Associacao Comercial do Amazonas
+    gutenberg_agent_id: '58013'
+    url: http://www.gutenberg.org/2009/agents/58013
+description: ''
+gutenberg_issued: '2025-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75473'
+  lccn: ca18000039
+language:
+- en
+- pt
+pgterms:marc904: https://archive.org/details/brazillandofrubb00brazrich
+pgterms:marc905: 20220422182110government
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bBrazilian Government, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rubber industry and trade -- Brazil'
+- !lcsh 'Rubber -- Exhibitions'
+- !lcc 'SB'
+- GITenberg
+title: 'Brazil, the land of rubber : $b At the third international rubber and allied
+  trades exhibition, New York, 1912'
+url: http://www.gutenberg.org/ebooks/75473
