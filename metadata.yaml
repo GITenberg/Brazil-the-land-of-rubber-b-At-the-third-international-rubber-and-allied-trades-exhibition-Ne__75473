@@ -6,6 +6,9 @@ contributor:
     alias: International rubber and allied trades' exhibition, 3d, New York, 1912
     gutenberg_agent_id: '58016'
     url: http://www.gutenberg.org/2009/agents/58016
+covers:
+- cover_type: archival
+  image_path: 75473-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Brazil. Commissão, Exposição internacioncal de borracha de New York,
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '58013'
     url: http://www.gutenberg.org/2009/agents/58013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75473#Brazil-the-land-of-rubber-b-At-the-third-international-rubber-and-allied-trades-exhibition-Ne_
 gutenberg_issued: '2025-02-26'
 gutenberg_type: Text
 identifiers:
